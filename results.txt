@@ -1,0 +1,70 @@
+Ciudad Azteca - Buenavista Monday 7.92
+Ciudad Azteca - Buenavista Tuesday 5.91
+Ciudad Azteca - Buenavista Wednesday 2.98
+Ciudad Azteca - Buenavista Thursday 2.00
+Ciudad Azteca - Buenavista Friday 1.95
+Ciudad Azteca - Buenavista Sunday 1.51
+Ciudad Azteca - Buenavista Saturday 1.00
+Cuatro Caminos - Tasqueña Tuesday 7.89
+Cuatro Caminos - Tasqueña Wednesday 5.93
+Cuatro Caminos - Tasqueña Monday 5.74
+Cuatro Caminos - Tasqueña Thursday 2.95
+Cuatro Caminos - Tasqueña Friday 2.00
+Cuatro Caminos - Tasqueña Saturday 1.96
+Cuatro Caminos - Tasqueña Sunday 1.00
+El Rosario - Barranca del Muerto Wednesday 7.93
+El Rosario - Barranca del Muerto Tuesday 5.89
+El Rosario - Barranca del Muerto Thursday 5.80
+El Rosario - Barranca del Muerto Friday 2.96
+El Rosario - Barranca del Muerto Monday 2.95
+El Rosario - Barranca del Muerto Saturday 2.00
+El Rosario - Barranca del Muerto Sunday 1.92
+El Rosario - Martín Carrera Thursday 7.90
+El Rosario - Martín Carrera Friday 5.88
+El Rosario - Martín Carrera Wednesday 5.86
+El Rosario - Martín Carrera Saturday 2.97
+El Rosario - Martín Carrera Tuesday 2.94
+El Rosario - Martín Carrera Monday 2.00
+El Rosario - Martín Carrera Sunday 2.00
+Garibaldi - Constitución de 1917 Friday 7.89
+Garibaldi - Constitución de 1917 Thursday 5.84
+Garibaldi - Constitución de 1917 Saturday 5.84
+Garibaldi - Constitución de 1917 Wednesday 2.96
+Garibaldi - Constitución de 1917 Sunday 2.91
+Garibaldi - Constitución de 1917 Tuesday 2.00
+Garibaldi - Constitución de 1917 Monday 1.92
+Indios Verdes - Universidad Saturday 7.91
+Indios Verdes - Universidad Sunday 5.92
+Indios Verdes - Universidad Friday 5.85
+Indios Verdes - Universidad Thursday 2.97
+Indios Verdes - Universidad Wednesday 2.00
+Indios Verdes - Universidad Tuesday 1.98
+Indios Verdes - Universidad Monday 1.00
+Pantitlán - La Paz Sunday 7.91
+Pantitlán - La Paz Saturday 5.87
+Pantitlán - La Paz Friday 2.94
+Pantitlán - La Paz Thursday 2.00
+Pantitlán - La Paz Wednesday 1.94
+Pantitlán - La Paz Monday 1.36
+Pantitlán - La Paz Tuesday 1.00
+Pantitlán - Observatorio Monday 7.87
+Pantitlán - Observatorio Tuesday 5.78
+Pantitlán - Observatorio Wednesday 2.97
+Pantitlán - Observatorio Thursday 2.00
+Pantitlán - Observatorio Friday 1.92
+Pantitlán - Observatorio Sunday 1.37
+Pantitlán - Observatorio Saturday 1.00
+Pantitlán - Tacubaya Tuesday 7.86
+Pantitlán - Tacubaya Wednesday 5.95
+Pantitlán - Tacubaya Monday 5.88
+Pantitlán - Tacubaya Thursday 2.89
+Pantitlán - Tacubaya Friday 2.00
+Pantitlán - Tacubaya Saturday 1.97
+Pantitlán - Tacubaya Sunday 1.00
+Politécnico - Pantitlán Wednesday 7.80
+Politécnico - Pantitlán Thursday 5.93
+Politécnico - Pantitlán Tuesday 5.91
+Politécnico - Pantitlán Friday 2.95
+Politécnico - Pantitlán Monday 2.93
+Politécnico - Pantitlán Saturday 2.00
+Politécnico - Pantitlán Sunday 1.94
